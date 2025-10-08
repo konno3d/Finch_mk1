@@ -1,5 +1,8 @@
 # Finch_mk1
 
+<img width="576" height="752" alt="スクリーンショット 2025-10-08 184659" src="https://github.com/user-attachments/assets/5fa0db46-b826-451e-b914-82e5f01be667" />
+
+
 ## License
 
 This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE).
