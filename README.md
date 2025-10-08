@@ -1,4 +1,4 @@
-# Hummingbird-mk1
+# Finch_mk1
 
 ## License
 
